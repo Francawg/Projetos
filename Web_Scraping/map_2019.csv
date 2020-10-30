@@ -1,0 +1,286 @@
+,Player,Teams,Maps,K-D Diff,K/D,Rating2.0,map_name
+0,Jame,AVANGAR,6,48,1.59,1.29,de_cache
+1,XANTARES,BIG,6,27,1.25,1.29,de_cache
+2,tabseN,BIG,6,24,1.25,1.29,de_cache
+3,twist,fnatic,7,36,1.31,1.2,de_cache
+4,JW,fnatic,7,13,1.1,1.2,de_cache
+5,ZywOo,Vitality,9,31,1.24,1.19,de_cache
+6,huNter-,Valiance,7,12,1.08,1.18,de_cache
+7,nexa,Valiance,7,28,1.23,1.16,de_cache
+8,LETN1,Valiance,7,25,1.21,1.16,de_cache
+9,apEX,Vitality,9,16,1.1,1.15,de_cache
+10,NBK-,Vitality,9,5,1.03,1.15,de_cache
+11,Brollan,fnatic,7,7,1.06,1.12,de_cache
+12,KRIMZ,fnatic,7,16,1.12,1.11,de_cache
+13,ottoNd,Valiance,7,19,1.15,1.09,de_cache
+14,buster,AVANGAR,6,6,1.06,1.08,de_cache
+15,qikert,AVANGAR,6,-5,0.96,1.07,de_cache
+16,EspiranTo,Valiance,7,11,1.08,1.05,de_cache
+17,RpK,Vitality,9,3,1.02,1.04,de_cache
+18,fitch,AVANGAR,6,-11,0.91,1.03,de_cache
+19,tiziaN,BIG,6,-4,0.96,0.98,de_cache
+20,gob b,BIG,6,-4,0.95,0.97,de_cache
+21,Xizt,fnatic,7,-25,0.81,0.93,de_cache
+22,ALEX,Vitality,9,-30,0.81,0.91,de_cache
+0,electronic,Natus Vincere,27,107,1.22,1.31,de_dust2
+1,ZywOo,Vitality,34,191,1.38,1.3,de_dust2
+2,woxic,mousesports,26,148,1.37,1.28,de_dust2
+3,s1mple,Natus Vincere,27,169,1.4,1.28,de_dust2
+4,NiKo,FaZe,29,131,1.27,1.24,de_dust2
+5,device,Astralis,31,143,1.28,1.24,de_dust2
+6,Jame,AVANGAR,34,161,1.29,1.21,de_dust2
+7,rain,FaZe,30,83,1.16,1.21,de_dust2
+8,kennyS,G2,50,189,1.22,1.21,de_dust2
+9,EliGE,Liquid,35,119,1.19,1.21,de_dust2
+10,Twistzz,Liquid,35,128,1.22,1.16,de_dust2
+11,NAF,Liquid,35,67,1.11,1.15,de_dust2
+12,Magisk,Astralis,31,97,1.19,1.14,de_dust2
+13,nexa,G2,37,110,1.17,1.14,de_dust2
+14,dupreeh,Astralis,31,72,1.14,1.09,de_dust2
+15,huNter-,G2,37,28,1.04,1.09,de_dust2
+16,ottoNd,Valiance,30,46,1.09,1.09,de_dust2
+17,GuardiaN,FaZe,29,37,1.08,1.08,de_dust2
+18,shox,Vitality,43,61,1.08,1.08,de_dust2
+19,olofmeister,FaZe,30,62,1.13,1.07,de_dust2
+20,AmaNEk,G2,43,76,1.1,1.07,de_dust2
+21,qikert,AVANGAR,34,9,1.01,1.04,de_dust2
+22,Xyp9x,Astralis,31,-8,0.98,1.03,de_dust2
+23,Stewie2K,Liquid,35,-19,0.97,1.02,de_dust2
+24,Lucky,G2,38,14,1.02,1.02,de_dust2
+25,nitr0,Liquid,35,-16,0.97,1.02,de_dust2
+26,flamie,Natus Vincere,27,8,1.02,1.01,de_dust2
+27,buster,AVANGAR,34,29,1.05,1.01,de_dust2
+28,RpK,Vitality,34,-11,0.98,0.99,de_dust2
+29,JaCkz,G2,50,-60,0.94,0.99,de_dust2
+30,f0rest,NiP,26,-19,0.96,0.98,de_dust2
+31,ALEX,Vitality,34,-42,0.93,0.97,de_dust2
+32,EspiranTo,Valiance,30,-59,0.9,0.97,de_dust2
+33,SANJI,AVANGAR,29,-74,0.87,0.96,de_dust2
+34,gla1ve,Astralis,31,-57,0.9,0.96,de_dust2
+35,apEX,Vitality,34,-54,0.91,0.95,de_dust2
+36,LETN1,Valiance,31,-42,0.92,0.94,de_dust2
+37,REZ,NiP,26,-70,0.85,0.93,de_dust2
+38,AdreN,AVANGAR,29,-90,0.83,0.92,de_dust2
+39,Lekr0,NiP,26,-68,0.86,0.92,de_dust2
+0,ZywOo,Vitality,38,218,1.32,1.31,de_mirage
+1,huNter-,G2,33,154,1.27,1.29,de_mirage
+2,Jame,AVANGAR,28,168,1.39,1.27,de_mirage
+3,EliGE,Liquid,29,106,1.21,1.24,de_mirage
+4,NAF,Liquid,29,103,1.23,1.2,de_mirage
+5,nexa,G2,33,110,1.19,1.19,de_mirage
+6,buster,AVANGAR,28,106,1.22,1.18,de_mirage
+7,Brehze,Evil Geniuses,27,61,1.13,1.16,de_mirage
+8,fer,MIBR,29,54,1.1,1.15,de_mirage
+9,NiKo,FaZe,25,43,1.1,1.15,de_mirage
+10,ropz,mousesports,31,94,1.18,1.14,de_mirage
+11,ottoNd,Valiance,31,100,1.21,1.14,de_mirage
+12,Ethan,Evil Geniuses,28,44,1.09,1.13,de_mirage
+13,jks,Renegades,32,64,1.11,1.13,de_mirage
+14,frozen,mousesports,31,76,1.15,1.13,de_mirage
+15,woxic,mousesports,30,81,1.16,1.12,de_mirage
+16,KRIMZ,fnatic,30,45,1.08,1.12,de_mirage
+17,CeRq,Evil Geniuses,28,60,1.13,1.1,de_mirage
+18,jkaem,Renegades,32,-4,0.99,1.1,de_mirage
+19,qikert,AVANGAR,28,44,1.09,1.09,de_mirage
+20,Brollan,fnatic,31,11,1.02,1.08,de_mirage
+21,EspiranTo,Valiance,31,-4,0.99,1.08,de_mirage
+22,Twistzz,Liquid,29,45,1.1,1.08,de_mirage
+23,Stewie2K,Liquid,29,28,1.06,1.05,de_mirage
+24,JW,fnatic,31,13,1.02,1.04,de_mirage
+25,FalleN,MIBR,29,25,1.05,1.03,de_mirage
+26,NBK-,Vitality,30,-54,0.91,1.01,de_mirage
+27,chrisJ,mousesports,32,-31,0.95,1.01,de_mirage
+28,tarik,Evil Geniuses,27,-25,0.95,1.0,de_mirage
+29,apEX,Vitality,38,-63,0.91,1.0,de_mirage
+30,rain,FaZe,26,-45,0.91,1.0,de_mirage
+31,Liazz,Renegades,32,-46,0.92,0.99,de_mirage
+32,AZR,Renegades,32,-30,0.95,0.99,de_mirage
+33,Gratisfaction,Renegades,27,-26,0.95,0.98,de_mirage
+34,nitr0,Liquid,29,-10,0.98,0.97,de_mirage
+35,olofmeister,FaZe,26,-20,0.95,0.96,de_mirage
+36,ALEX,Vitality,38,-77,0.89,0.95,de_mirage
+37,TACO,MIBR,29,-70,0.86,0.92,de_mirage
+38,LETN1,Valiance,31,-58,0.88,0.9,de_mirage
+39,karrigan,mousesports,31,-130,0.78,0.89,de_mirage
+40,RpK,Vitality,38,-115,0.83,0.87,de_mirage
+0,ZywOo,Vitality,36,197,1.33,1.27,de_inferno
+1,device,Astralis,32,108,1.22,1.21,de_inferno
+2,Jame,AVANGAR,31,142,1.31,1.19,de_inferno
+3,EliGE,Liquid,28,73,1.15,1.19,de_inferno
+4,ropz,mousesports,31,166,1.35,1.18,de_inferno
+5,Twistzz,Liquid,28,126,1.28,1.18,de_inferno
+6,qikert,AVANGAR,31,73,1.13,1.17,de_inferno
+7,jkaem,Renegades,25,34,1.08,1.17,de_inferno
+8,Magisk,Astralis,32,86,1.18,1.16,de_inferno
+9,dupreeh,Astralis,32,115,1.24,1.16,de_inferno
+10,Xyp9x,Astralis,32,97,1.2,1.16,de_inferno
+11,frozen,mousesports,31,88,1.18,1.15,de_inferno
+12,kennyS,G2,25,69,1.15,1.15,de_inferno
+13,jks,Renegades,25,80,1.23,1.14,de_inferno
+14,woxic,mousesports,34,104,1.18,1.14,de_inferno
+15,Ethan,Evil Geniuses,27,2,1.0,1.13,de_inferno
+16,flusha,fnatic,27,48,1.11,1.12,de_inferno
+17,huNter-,G2,24,40,1.08,1.12,de_inferno
+18,gla1ve,Astralis,32,42,1.08,1.12,de_inferno
+19,NAF,Liquid,28,54,1.11,1.11,de_inferno
+20,JW,fnatic,39,63,1.1,1.09,de_inferno
+21,Stewie2K,Liquid,28,-27,0.95,1.08,de_inferno
+22,Kjaerbye,North,26,38,1.08,1.08,de_inferno
+23,aizy,North,26,8,1.02,1.08,de_inferno
+24,CeRq,Evil Geniuses,27,58,1.13,1.08,de_inferno
+25,Brehze,Evil Geniuses,26,23,1.05,1.08,de_inferno
+26,buster,AVANGAR,31,2,1.0,1.07,de_inferno
+27,KRIMZ,fnatic,37,25,1.04,1.06,de_inferno
+28,Brollan,fnatic,39,20,1.03,1.06,de_inferno
+29,nexa,G2,24,15,1.03,1.05,de_inferno
+30,Liazz,Renegades,25,-21,0.94,1.04,de_inferno
+31,shox,Vitality,33,3,1.01,1.02,de_inferno
+32,apEX,Vitality,36,-75,0.89,1.01,de_inferno
+33,JaCkz,G2,25,-19,0.96,1.01,de_inferno
+34,fer,MIBR,27,-17,0.97,1.0,de_inferno
+35,Golden,fnatic,24,-36,0.91,1.0,de_inferno
+36,karrigan,mousesports,31,-71,0.88,0.99,de_inferno
+37,ALEX,Vitality,36,-24,0.96,0.98,de_inferno
+38,chrisJ,mousesports,31,-26,0.95,0.98,de_inferno
+39,AZR,Renegades,25,-22,0.95,0.98,de_inferno
+40,nitr0,Liquid,28,-22,0.96,0.97,de_inferno
+41,gade,North,26,-74,0.85,0.96,de_inferno
+42,AdreN,AVANGAR,24,-48,0.88,0.93,de_inferno
+43,RpK,Vitality,36,-103,0.84,0.93,de_inferno
+44,SANJI,AVANGAR,28,-62,0.87,0.92,de_inferno
+45,FalleN,MIBR,27,-69,0.86,0.9,de_inferno
+46,tarik,Evil Geniuses,26,-92,0.81,0.88,de_inferno
+47,TACO,MIBR,27,-115,0.78,0.86,de_inferno
+0,ZywOo,Vitality,33,177,1.33,1.27,de_nuke
+1,device,Astralis,25,143,1.36,1.27,de_nuke
+2,KSCERATO,FURIA,20,132,1.41,1.24,de_nuke
+3,s1mple,Natus Vincere,23,107,1.28,1.21,de_nuke
+4,f0rest,NiP,22,59,1.15,1.18,de_nuke
+5,es3tag,Heroic,24,43,1.1,1.18,de_nuke
+6,NiKo,FaZe,25,63,1.14,1.16,de_nuke
+7,electronic,Natus Vincere,23,36,1.09,1.16,de_nuke
+8,CeRq,Evil Geniuses,32,112,1.21,1.16,de_nuke
+9,sergej,ENCE,22,57,1.15,1.15,de_nuke
+10,NAF,Liquid,25,60,1.14,1.15,de_nuke
+11,Brehze,Evil Geniuses,31,80,1.14,1.14,de_nuke
+12,EliGE,Liquid,25,54,1.12,1.13,de_nuke
+13,Aerial,ENCE,22,-15,0.96,1.12,de_nuke
+14,Twistzz,Liquid,25,73,1.18,1.12,de_nuke
+15,yuurih,FURIA,20,31,1.09,1.11,de_nuke
+16,gla1ve,Astralis,25,2,1.0,1.11,de_nuke
+17,Kjaerbye,North,21,-2,0.99,1.09,de_nuke
+18,dupreeh,Astralis,25,54,1.14,1.09,de_nuke
+19,rain,FaZe,25,3,1.01,1.07,de_nuke
+20,Magisk,Astralis,25,12,1.03,1.07,de_nuke
+21,Ethan,Evil Geniuses,32,-16,0.97,1.06,de_nuke
+22,aizy,North,21,3,1.01,1.05,de_nuke
+23,flamie,Natus Vincere,23,7,1.02,1.05,de_nuke
+24,JW,fnatic,25,-18,0.96,1.05,de_nuke
+25,twist,NiP,25,10,1.02,1.05,de_nuke
+26,allu,ENCE,22,20,1.05,1.04,de_nuke
+27,k0nfig,OpTic,20,-11,0.97,1.04,de_nuke
+28,olofmeister,FaZe,25,7,1.02,1.03,de_nuke
+29,Xyp9x,Astralis,25,22,1.06,1.03,de_nuke
+30,Lekr0,NiP,22,-13,0.97,1.03,de_nuke
+31,KRIMZ,fnatic,24,-5,0.99,1.03,de_nuke
+32,stavn,Heroic,22,9,1.02,1.03,de_nuke
+33,shox,Vitality,24,-4,0.99,1.02,de_nuke
+34,NBK-,Vitality,21,-12,0.97,1.01,de_nuke
+35,tarik,Evil Geniuses,30,-22,0.96,1.01,de_nuke
+36,ALEX,Vitality,33,0,1.0,1.0,de_nuke
+37,xseveN,ENCE,22,-9,0.98,1.0,de_nuke
+38,arT,FURIA,20,-31,0.92,1.0,de_nuke
+39,RpK,Vitality,33,-14,0.98,0.99,de_nuke
+40,apEX,Vitality,33,-54,0.91,0.99,de_nuke
+41,Boombl4,Natus Vincere,20,-21,0.94,0.99,de_nuke
+42,nitr0,Liquid,25,-40,0.91,0.98,de_nuke
+43,REZ,NiP,22,-39,0.91,0.97,de_nuke
+44,Brollan,fnatic,25,-9,0.98,0.97,de_nuke
+45,gade,North,21,-22,0.94,0.97,de_nuke
+46,stanislaw,Evil Geniuses,23,-56,0.87,0.96,de_nuke
+47,GuardiaN,FaZe,25,-49,0.88,0.92,de_nuke
+48,Snappi,Heroic,23,-60,0.86,0.92,de_nuke
+49,Stewie2K,Liquid,25,-72,0.84,0.9,de_nuke
+50,VINI,FURIA,20,-92,0.77,0.87,de_nuke
+0,nexa,G2,33,141,1.27,1.22,de_train
+1,FalleN,MIBR,21,85,1.27,1.19,de_train
+2,ropz,mousesports,28,115,1.26,1.17,de_train
+3,CeRq,Evil Geniuses,25,112,1.26,1.16,de_train
+4,woxic,mousesports,26,111,1.27,1.15,de_train
+5,aizy,North,18,44,1.14,1.14,de_train
+6,huNter-,G2,33,69,1.12,1.14,de_train
+7,ottoNd,CR4ZY,29,67,1.15,1.13,de_train
+8,shox,G2,20,64,1.18,1.13,de_train
+9,Brehze,Evil Geniuses,24,64,1.14,1.13,de_train
+10,frozen,mousesports,26,55,1.12,1.12,de_train
+11,allu,ENCE,23,86,1.23,1.11,de_train
+12,chrisJ,mousesports,28,65,1.13,1.11,de_train
+13,fer,MIBR,21,12,1.03,1.1,de_train
+14,Jame,AVANGAR,25,58,1.15,1.08,de_train
+15,jks,Renegades,20,8,1.02,1.08,de_train
+16,JaCkz,G2,28,32,1.06,1.07,de_train
+17,jkaem,Renegades,20,-21,0.95,1.07,de_train
+18,kennyS,G2,28,58,1.12,1.06,de_train
+19,Ethan,Evil Geniuses,25,-7,0.99,1.06,de_train
+20,sergej,ENCE,23,9,1.02,1.05,de_train
+21,Liazz,Renegades,20,-3,0.99,1.03,de_train
+22,EspiranTo,CR4ZY,28,7,1.01,1.03,de_train
+23,Aerial,ENCE,23,-15,0.97,1.03,de_train
+24,qikert,AVANGAR,25,-8,0.98,1.02,de_train
+25,tarik,Evil Geniuses,25,-26,0.95,1.01,de_train
+26,TACO,MIBR,21,-12,0.97,1.01,de_train
+27,buster,AVANGAR,25,5,1.01,1.0,de_train
+28,Kjaerbye,North,18,-10,0.97,1.0,de_train
+29,karrigan,mousesports,25,-41,0.92,1.0,de_train
+30,xseveN,ENCE,23,-37,0.91,1.0,de_train
+31,SANJI,AVANGAR,21,-26,0.94,0.98,de_train
+32,AmaNEk,G2,28,-42,0.92,0.97,de_train
+33,gade,North,18,-40,0.89,0.96,de_train
+34,olofmeister,FaZe,18,-8,0.98,0.96,de_train
+35,Lucky,G2,19,-52,0.85,0.93,de_train
+36,rain,FaZe,18,-51,0.85,0.92,de_train
+37,AdreN,FaZe,18,-59,0.83,0.91,de_train
+38,LETN1,CR4ZY,29,-97,0.81,0.9,de_train
+39,AZR,Renegades,20,-64,0.83,0.89,de_train
+0,s1mple,Natus Vincere,21,136,1.38,1.3,de_overpass
+1,ZywOo,Vitality,32,186,1.35,1.3,de_overpass
+2,REZ,NiP,21,73,1.2,1.24,de_overpass
+3,Brehze,Evil Geniuses,21,77,1.19,1.2,de_overpass
+4,EliGE,Liquid,37,121,1.19,1.19,de_overpass
+5,Jame,AVANGAR,21,109,1.33,1.18,de_overpass
+6,NAF,Liquid,37,88,1.14,1.18,de_overpass
+7,Brollan,fnatic,22,38,1.08,1.17,de_overpass
+8,Magisk,Astralis,18,36,1.12,1.17,de_overpass
+9,KRIMZ,fnatic,21,82,1.21,1.16,de_overpass
+10,qikert,AVANGAR,21,29,1.07,1.13,de_overpass
+11,kennyS,G2,25,83,1.2,1.12,de_overpass
+12,nitr0,Liquid,37,86,1.15,1.12,de_overpass
+13,fer,MIBR,18,25,1.08,1.11,de_overpass
+14,Ethan,Evil Geniuses,21,10,1.02,1.11,de_overpass
+15,electronic,Natus Vincere,21,25,1.06,1.11,de_overpass
+16,AmaNEk,G2,21,14,1.04,1.1,de_overpass
+17,NBK-,Vitality,29,-19,0.97,1.1,de_overpass
+18,dupreeh,Astralis,18,8,1.03,1.1,de_overpass
+19,Twistzz,Liquid,37,80,1.14,1.09,de_overpass
+20,shox,Vitality,20,43,1.13,1.08,de_overpass
+21,es3tag,Heroic,24,9,1.02,1.06,de_overpass
+22,Stewie2K,Liquid,37,-7,0.99,1.06,de_overpass
+23,apEX,Vitality,32,44,1.08,1.06,de_overpass
+24,device,Astralis,18,16,1.05,1.06,de_overpass
+25,stavn,Heroic,23,-3,0.99,1.05,de_overpass
+26,Xyp9x,Astralis,18,12,1.04,1.04,de_overpass
+27,f0rest,NiP,21,14,1.04,1.04,de_overpass
+28,JW,fnatic,22,-14,0.97,1.02,de_overpass
+29,buster,AVANGAR,21,-9,0.98,1.01,de_overpass
+30,tarik,Evil Geniuses,20,-47,0.89,1.0,de_overpass
+31,flamie,Natus Vincere,21,-15,0.96,1.0,de_overpass
+32,Lekr0,NiP,21,-24,0.94,1.0,de_overpass
+33,FalleN,MIBR,18,-11,0.96,1.0,de_overpass
+34,ALEX,Vitality,32,-29,0.95,0.97,de_overpass
+35,Lucky,G2,20,-13,0.96,0.97,de_overpass
+36,gla1ve,Astralis,18,-24,0.92,0.97,de_overpass
+37,JaCkz,G2,25,-62,0.87,0.97,de_overpass
+38,RpK,Vitality,32,-18,0.97,0.97,de_overpass
+39,CeRq,Evil Geniuses,21,-40,0.9,0.95,de_overpass
+40,TACO,MIBR,18,-42,0.87,0.9,de_overpass
+41,twist,NiP,22,-60,0.85,0.88,de_overpass
